@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "test_proj",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denis-shu/test-proj.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Ya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denis-shu/test-proj/issues"
+  },
+  "homepage": "https://github.com/denis-shu/test-proj#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.3",
+    "morgan": "^1.9.1"
+  }
+}
